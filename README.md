@@ -1,16 +1,15 @@
-### Hi there 👋
+project
 
-<!--
-**PHAMTHIMINHTHUY/phamthiminhthuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+тема проекст на тему
 
-Here are some ideas to get you started:
+еще поменьше
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+жирный текст
+
+зачеркнуты
+
+*курсид*
+
+ура
+
+![здесь_будет_картина](https://www.google.com/search?q=%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0+%D1%87%D0%B0%D1%83+%D1%87%D0%B0%D1%83&tbm=isch&ved=2ahUKEwi3uMvlp8rzAhUWwyoKHf1JCQ0Q2-cCegQIABAA&oq=%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0+%D1%87%D0%B0%D1%83+%D1%87%D0%B0%D1%83&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQE1DtBVj3GWCzHWgAcAB4AIABgQGIAcYFkgEDMS41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=TlloYbfZEZaGqwH9k6Vo&bih=789&biw=1440#imgrc=rhEaBaTkSvRbBM)
